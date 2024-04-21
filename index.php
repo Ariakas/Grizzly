@@ -20,5 +20,12 @@
             <p id="country_response"></p>
         </form>
     </section>
+<?php if (!($_COOKIE["GRIZZLY"] ?? false)): ?>
+    <dialog id="t2" open>
+        <button id="close_popup">X</button>
+        <p>Попап о том что на странице используются кукисы</p>
+        <button id="confirm_cookie">OK</button>
+    </dialog>
+<?php endif; ?>
 </body>
 </html>

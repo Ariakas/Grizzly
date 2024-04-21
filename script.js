@@ -7,3 +7,13 @@ document.querySelector("#country_form").addEventListener("submit", function(e) {
             })
     }
 });
+
+
+document.querySelector("#close_popup")?.addEventListener("click", () => {
+    document.querySelector("#t2").close()
+});
+
+document.querySelector("#confirm_cookie")?.addEventListener("click", () => {
+    document.querySelector("#t2").close();
+    document.cookie = `GRIZZLY=1; max-age=86400`
+});
