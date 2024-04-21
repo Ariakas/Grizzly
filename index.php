@@ -27,5 +27,66 @@
         <button id="confirm_cookie">OK</button>
     </dialog>
 <?php endif; ?>
+    <section id="t3">
+        <h2>Lorem ipsum dolor sit amet.</h2>
+        <div class="grid">
+            <div class="item">
+                <div class="icon">
+                    <img src="img/2fas-auth-svgrepo-com.svg" alt="">
+                </div>
+                <p>Lorem ipsum dolor sit amet.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/2gis-svgrepo-com.svg" alt="">
+                </div>
+                <p>Laborum magni molestiae reprehenderit sed.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/aarogya-setu-svgrepo-com.svg" alt="">
+                </div>
+                <p>Blanditiis ducimus eveniet laudantium similique.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/afweatherwidget-svgrepo-com.svg" alt="">
+                </div>
+                <p>Amet debitis fuga molestias nulla.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/alarms-svgrepo-com.svg" alt="">
+                </div>
+                <p>Aliquid culpa itaque magnam nesciunt?</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/ameli-svgrepo-com.svg" alt="">
+                </div>
+                <p>Facilis fugit ipsum quibusdam velit.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/acm-svgrepo-com.svg" alt="">
+                </div>
+                <p>Aspernatur cum est incidunt voluptatum.</p>
+                <p>Lorem.</p>
+            </div>
+            <div class="item">
+                <div class="icon">
+                    <img src="img/anemo-svgrepo-com.svg" alt="">
+                </div>
+                <p>Cum facere molestias nulla repellat.</p>
+                <p>Lorem.</p>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
